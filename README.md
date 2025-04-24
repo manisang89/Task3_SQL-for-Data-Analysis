@@ -3,6 +3,9 @@
 ## Task Overview
 In this repository, I am practicing SQL queries on an e-commerce database. The objective is to become proficient in writing SQL queries for common operations, including `SELECT`, `JOIN`, `GROUP BY`, subqueries, and using aggregate functions.
 
+### Tool Used:
+- **PostgreSQL**: All queries and database operations are designed and executed using PostgreSQL.
+  
 ### Database Setup:
 The e-commerce database includes the following tables:
 
